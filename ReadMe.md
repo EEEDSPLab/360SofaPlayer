@@ -32,9 +32,9 @@ You may switch between 3 near field HRTF.
 For the headphone EQ, a great resource can be found in https://github.com/jaakkopasanen/AutoEq
 
 
+-------------
 
-
-########Contact Us:
+Contact Us:
 If there is something unclear about how things are done or something is not working.
 
 You may contact either Speksi@ntu.edu.sg or NDHai@ntu.edu.sg
