@@ -3,6 +3,10 @@
 ##### *No installation needed. 
 ##### Please run NearField_Working.exe
 
+Screenshot
+![Alt text](/Fig/Player.PNG?raw=true "Player")
+
+
 In this simple player version, you may select any .wav audio file for the playback.
 The Basic Player Control, allow you to play, stop or pause. “Please remember to click play”
 
